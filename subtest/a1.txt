@@ -1,2 +1,1 @@
-Kosta is a Napoli fan
-Napoli will win the league
+print("Kosta is a Napoli fan")

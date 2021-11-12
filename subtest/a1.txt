@@ -1,1 +1,2 @@
-print("Kosta is a Napoli fan")
+Kosta is a Napoli fan
+Napoli will win the league
